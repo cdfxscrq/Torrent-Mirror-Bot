@@ -1,8 +1,8 @@
 requests
 python-telegram-bot==12.8 
-google-api-python-client>=1.10.0,<1.7.20
-google-auth-httplib2>=0.0.4,<0.1.0
-google-auth-oauthlib>=0.4.1,<0.10.0
+google-api-python-client>=1.10.0
+google-auth-httplib2>=0.0.4
+google-auth-oauthlib>=0.4.1
 aria2p>=0.9.1,<0.15.0
 oauth2client
 httplib2==0.18.1
